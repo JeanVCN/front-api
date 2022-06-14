@@ -78,6 +78,7 @@ function Clientes({ setClients, clients }) {
     marginRight: "2.5%",
     marginBottom: "2.5%",
     width: "95%",
+    borderRadius: "1.5%",
   };
   const styleButton = {
     marginLeft: "2.5%",
